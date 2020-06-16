@@ -1,2 +1,0 @@
-# GameDatabaseTest
-Created with CodeSandbox
